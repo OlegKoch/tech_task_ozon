@@ -1,0 +1,13 @@
+.idea/
+
+.venv/
+env/
+venv/
+
+.env
+*.log
+
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
