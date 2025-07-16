@@ -18,4 +18,4 @@
     tests/test_hero.py::test_high_male_without_work PASSED                                                                                                                                                                         [ 50%] 
     tests/test_hero.py::test_high_female_without_work PASSED                                                                                                                                                                       [ 66%] 
     tests/test_hero.py::test_empty_list PASSED                                                                                                                                                                                     [ 83%] 
-    tests/test_hero.py::test_missing_keys PASSED  
+     
